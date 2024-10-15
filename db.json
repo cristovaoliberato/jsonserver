@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Ana Silva",
+    "idade": 16,
+    "nota": [8.5, 9.0, 7.5],
+    "frequencia": [true, true, false, true, true, true, true, false, true, true]
+  },
+  {
+    "nome": "João Souza",
+    "idade": 17,
+    "nota": [7.0, 6.5, 8.0],
+    "frequencia": [false, true, true, true, true, true, true, true, false, true]
+  },
+  {
+    "nome": "Beatriz Oliveira",
+    "idade": 16,
+    "nota": [9.0, 8.5, 9.5],
+    "frequencia": [true, true, true, true, true, true, true, true, true, true]
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 15,
+    "nota": [6.5, 7.0, 6.0],
+    "frequencia": [true, false, true, true, false, true, false, true, true, false]
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 17,
+    "nota": [8.0, 7.5, 8.5],
+    "frequencia": [true, true, true, true, true, false, true, true, true, false]
+  }
+]
