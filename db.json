@@ -1,4 +1,4 @@
-"alunos":[
+{"alunos":[
   {
     "nome": "Ana Silva",
     "idade": 16,
@@ -30,3 +30,4 @@
     "frequencia": [true, true, true, true, true, false, true, true, true, false]
   }
 ]
+}
